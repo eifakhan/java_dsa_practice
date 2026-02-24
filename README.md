@@ -10,6 +10,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/eifakhan/java_dsa_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/eifakhan/java_dsa_practice/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/eifakhan/java_dsa_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0392-is-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/eifakhan/java_dsa_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
