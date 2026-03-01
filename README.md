@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/eifakhan/java_dsa_practice/tree/master/0051-n-queens) |
 | [0238-product-of-array-except-self](https://github.com/eifakhan/java_dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/eifakhan/java_dsa_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eifakhan/java_dsa_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/eifakhan/java_dsa_practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
