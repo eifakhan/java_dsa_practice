@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/eifakhan/java_dsa_practice/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
