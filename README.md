@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/eifakhan/java_dsa_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eifakhan/java_dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/eifakhan/java_dsa_practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/eifakhan/java_dsa_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -16,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/eifakhan/java_dsa_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eifakhan/java_dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/eifakhan/java_dsa_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0392-is-subsequence) |
