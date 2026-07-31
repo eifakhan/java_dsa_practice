@@ -37,6 +37,7 @@
 | [0015-3sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/eifakhan/java_dsa_practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/eifakhan/java_dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/eifakhan/java_dsa_practice/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
