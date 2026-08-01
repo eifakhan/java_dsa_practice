@@ -107,4 +107,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/eifakhan/java_dsa_practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
