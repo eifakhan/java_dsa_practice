@@ -43,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eifakhan/java_dsa_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/eifakhan/java_dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/eifakhan/java_dsa_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -103,14 +104,17 @@
 | ------- |
 | [0015-3sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -118,4 +122,12 @@
 | [0595-big-countries](https://github.com/eifakhan/java_dsa_practice/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/eifakhan/java_dsa_practice/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/eifakhan/java_dsa_practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
