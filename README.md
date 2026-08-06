@@ -43,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eifakhan/java_dsa_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/eifakhan/java_dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/eifakhan/java_dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/eifakhan/java_dsa_practice/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/eifakhan/java_dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
