@@ -41,6 +41,7 @@
 | [0027-remove-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/eifakhan/java_dsa_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/eifakhan/java_dsa_practice/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eifakhan/java_dsa_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eifakhan/java_dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/eifakhan/java_dsa_practice/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/eifakhan/java_dsa_practice/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/eifakhan/java_dsa_practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eifakhan/java_dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0392-is-subsequence) |
 ## Linked List
