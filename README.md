@@ -48,6 +48,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eifakhan/java_dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/eifakhan/java_dsa_practice/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/eifakhan/java_dsa_practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/eifakhan/java_dsa_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/eifakhan/java_dsa_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/eifakhan/java_dsa_practice/tree/master/0605-can-place-flowers) |
@@ -113,6 +114,7 @@
 | [0015-3sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/eifakhan/java_dsa_practice/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/eifakhan/java_dsa_practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
