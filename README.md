@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eifakhan/java_dsa_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/eifakhan/java_dsa_practice/tree/master/0125-valid-palindrome) |
@@ -39,6 +40,7 @@
 | [0015-3sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eifakhan/java_dsa_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/eifakhan/java_dsa_practice/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/eifakhan/java_dsa_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
@@ -70,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/eifakhan/java_dsa_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/eifakhan/java_dsa_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/eifakhan/java_dsa_practice/tree/master/0055-jump-game) |
@@ -89,6 +92,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0042-trapping-rain-water) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/eifakhan/java_dsa_practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -154,4 +158,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/eifakhan/java_dsa_practice/tree/master/0274-h-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/eifakhan/java_dsa_practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
