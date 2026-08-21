@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/eifakhan/java_dsa_practice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/eifakhan/java_dsa_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eifakhan/java_dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/eifakhan/java_dsa_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/eifakhan/java_dsa_practice/tree/master/0013-roman-to-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/eifakhan/java_dsa_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eifakhan/java_dsa_practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/eifakhan/java_dsa_practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/eifakhan/java_dsa_practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
